@@ -1,6 +1,6 @@
 # Livius CTF - Cybersecurity Challenge
 
-Una piattaforma interattiva di Capture The Flag con 6 livelli di difficoltà crescente.
+Una Capture The Flag con 6 livelli che hanno una grado di difficoltà crescente.
 
 ##  Livelli Disponibili
 
