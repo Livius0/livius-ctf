@@ -2,7 +2,7 @@
 
 Una piattaforma interattiva di Capture The Flag con 6 livelli di difficoltà crescente.
 
-## 🎯 Livelli Disponibili
+##  Livelli Disponibili
 
 1. **Accesso al Sistema** - Cracking di hash MD5
 2. **Escalation dei Privilegi** - Buffer Overflow  
@@ -11,6 +11,6 @@ Una piattaforma interattiva di Capture The Flag con 6 livelli di difficoltà cre
 5. **Exploit del Kernel** - Sfruttamento vulnerabilità
 6. **Exfiltrazione Dati** - Accesso root e ricerca flag
 
-## 🚀 Demo Online
+##  Demo Online
 
 Visita: https://Livius0.github.io/livius-ctf
